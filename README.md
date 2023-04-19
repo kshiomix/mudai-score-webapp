@@ -1,1 +1,0 @@
-# mudai-score-webapp
